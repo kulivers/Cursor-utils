@@ -4,34 +4,328 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc128670-dce1-4711-96f1-946afdb2c159" name="Changes" comment="save commit" />
+    <list default="true" id="fc128670-dce1-4711-96f1-946afdb2c159" name="Changes" comment="mcp rules?">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/.cursor/rules/.NET.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/.cursor/rules/benchmarking.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/.cursor/rules/code-signing.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/.cursor/rules/coding-style.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/.cursor/rules/consuming-dotnettool.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/.cursor/rules/dependency-management.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/.cursor/rules/dotnet-build.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/.cursor/rules/meta.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/.cursor/rules/nuget-package-publishing.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/.cursor/rules/publishing-dotnettool.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/.cursor/rules/solution-management.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/.cursor/rules/testing.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/actix-web.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/aiohttp.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/amazon-ec2.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/amazon-s3.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/android-sdk.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/angular.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/ansible.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/ant-design.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/anyio.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/apollo-client.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/apollo-graphql.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/asp-net.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/astro.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/asyncio.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/auth0.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/autogen.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/aws-amplify.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/aws-cli.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/aws-dynamodb.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/aws-ecs.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/aws-lambda.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/aws-rds.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/aws.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/axios.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/azure-pipelines.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/azure.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/bash.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/beautifulsoup4.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/behave.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/black.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/boto3.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/bottle.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/bun.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/c-sharp.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/chakra-ui.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/cheerio.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/circleci.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/clerk.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/click.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/cloudflare.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/codemirror.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/crewai.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/css.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/cuda.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/customtkinter.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/cypress.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/d3.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/dask.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/databricks.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/datadog.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/deno.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/detox.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/digitalocean.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/discord-api.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/django-orm.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/django-rest-framework.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/django.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/docker.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/dotnet-cursor-rules" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/drizzle.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/duckdb.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/elasticsearch.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/electron.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/elk-stack.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/emacs.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/esbuild.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/eslint.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/expo.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/express.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/fabric-js.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/fastapi.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/ffmpeg.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/fiber.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/firebase.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/flake8.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/flask-restful.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/flask.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/flutter.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/fontawesome.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/gcp-cli.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/gcp.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/gensim.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/git.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/github-actions.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/gitlab-ci.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/go.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/godot.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/google-maps-js.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/gradle.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/grafana.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/graphql.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/guzzle.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/hardhat.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/heroku.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/htmx.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/httpx.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/huggingface.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/hypothesis.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/insomnia.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/ionic.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/isort.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/java.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/jax.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/jenkins.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/jest.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/jetpack-compose.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/jquery.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/junit.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/keras.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/kivy.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/kubernetes.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/langchain-js.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/langchain.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/langgraph.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/laravel.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/lightgbm.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/llama-index.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/llamaindex-js.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/llvm.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/material-ui.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/matplotlib.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/maven.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/mcp-rules/PLAYWRIGHT_MCP_GUIDE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/mcp-rules/PLAYWRIGHT_QUICK_START.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/mcp-rules/PLAYWRIGHT_SETUP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/microsoft-teams.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/mkdocs.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/mlx.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/mobx.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/mockito.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/modal.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/mongodb.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/mypy.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/neo4j.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/nestjs.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/netlify.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/next-js.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/nginx.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/nltk.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/nose2.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/notion-api.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/numba.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/numpy.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/nuxt.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/openai.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/opencv-python.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/pandas.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/pdoc.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/peewee.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/phoenix.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/php.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/pillow.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/playwright-mcp.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/playwright.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/plotly.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/poetry.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/pony.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/postgresql.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/postman.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/prisma.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/puppeteer.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/pydantic.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/pygame.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/pylint.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/pyqt.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/pyramid.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/pyright.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/pyside.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/pytest.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/python.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/pytorch.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/qwik.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/railway.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/react-mobx.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/react-native.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/react-query.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/react-redux.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/react.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/redis.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/redux.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/remix.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/requests.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/rich.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/riverpod.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/rocket.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/ros.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/ruby.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/rust.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/sanic.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/scikit-image.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/scikit-learn.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/scipy.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/scrapy.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/seaborn.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/selenium.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/sentry.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/servemux.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/setuptools.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/shadcn.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/smolagents.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/socket-io.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/solidity.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/solidjs.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/spacy.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/sphinx.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/spring.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/springboot.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/sqlalchemy.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/sqlite.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/statsmodels.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/streamlit.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/stripe.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/supabase.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/svelte.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/sveltekit.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/tailwind.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/tauri.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/tensorflow.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/terraform.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/three-js.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/tinygrad.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/tkinter.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/tornado.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/tortoise-orm.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/tqdm.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/transformers.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/trio.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/trpc.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/turbopack.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/typer.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/typescript.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/unittest.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/unity.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/unreal-engine.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/vercel.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/vim.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/vite.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/vitest.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/vllm.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/vue.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/vue3.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/webpack.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/xgboost.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/zod.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/zsh.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rules/zustand.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/accessibility-audit.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/add-documentation.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/add-error-handling.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/address-github-pr-comments.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/code-review.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/create-pr.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/create-prompt.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/database-migration.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/debug-issue.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/fix-compile-errors.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/fix-git-issues.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/generate-api-docs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/generate-pr-description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/import_rule.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/light-review-existing-diffs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/lint-fix.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/lint-suite.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/onboard-new-developer.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/optimize-performance.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/refactor-code.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/run-all-tests-and-fix.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/security-audit.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/security-review.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/setup-new-feature.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/write-unit-tests.md" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="35WSMpUzgRx71oGoT1UJY16tlET" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Cursor-utils",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Cursor-utils&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="ReactDesignerToolWindowState">
     <option name="myId2Visible">
       <map>
@@ -50,6 +344,8 @@
       <option name="presentableId" value="Default" />
       <updated>1763224288396</updated>
       <workItem from="1763224289444" duration="648000" />
+      <workItem from="1763287783472" duration="236000" />
+      <workItem from="1763291525223" duration="675000" />
     </task>
     <task id="LOCAL-00001" summary="save commit">
       <option name="closed" value="true" />
@@ -59,7 +355,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763225038896</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="mcp rules?">
+      <option name="closed" value="true" />
+      <created>1763287803671</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1763287803671</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,6 +372,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="save commit&#10;feat: updated smithery.yaml" />
     <MESSAGE value="save commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="save commit" />
+    <MESSAGE value="mcp rules?" />
+    <option name="LAST_COMMIT_MESSAGE" value="mcp rules?" />
   </component>
 </project>
