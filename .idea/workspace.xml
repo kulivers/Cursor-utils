@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc128670-dce1-4711-96f1-946afdb2c159" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Cursor-utils.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rule-repos/awesome-cursor-rules-mdc" beforeDir="false" />
-    </list>
+    <list default="true" id="fc128670-dce1-4711-96f1-946afdb2c159" name="Changes" comment="save commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,11 +49,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1763224288396</updated>
-      <workItem from="1763224289444" duration="606000" />
+      <workItem from="1763224289444" duration="648000" />
     </task>
+    <task id="LOCAL-00001" summary="save commit">
+      <option name="closed" value="true" />
+      <created>1763225038896</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1763225038896</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="save commit&#10;feat: updated smithery.yaml" />
+    <MESSAGE value="save commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="save commit" />
   </component>
 </project>
