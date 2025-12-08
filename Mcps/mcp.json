@@ -1,0 +1,38 @@
+{
+  "mcpServers": {
+    "drawio": {
+      "command": "node",
+      "args": [
+        "C:\\dev\\playground\\drawio-mcp\\dist\\index.js",
+        "C:\\dev\\playground\\drawio-mcp\\first.drawio"
+      ]
+    },
+    "playwright": {
+      "command": "node",
+      "args": [
+        "C:\\Cursor-utils\\Mcps\\playwright-mcp\\cli.js"
+      ],
+      "type": "stdio"
+    },
+    "docker": {
+      "command": "docker",
+      "args": [
+        "mcp",
+        "gateway",
+        "run"
+      ],
+      "type": "stdio"
+    },
+    "context7": {
+      "command": "node",
+      "args": [
+        "C:\\Cursor-utils\\Mcps\\context7\\packages\\mcp\\dist\\index.js",
+        "--transport",
+        "stdio"
+      ],
+      "env": {
+        "CONTEXT7_API_KEY": ""
+      }
+    }
+  }
+}

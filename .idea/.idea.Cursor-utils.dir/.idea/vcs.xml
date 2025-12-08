@@ -2,10 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Mcps/context7" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Mcps/github-mcp-server" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Mcps/jigsawstack-mcp-server" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Mcps/playwright-mcp" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Rules/dotnet-cursor-rules" vcs="Git" />
   </component>
 </project>
